@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Leshenko Nazar | Gheubj
+- 👀 I’m interested in almost everything: math, literature, sport, AI, architecture 
+- 🌱 I’m currently learning math, Python, C++ 
+- 📫 How to reach me
+- Tg - @Gheubj Gmail - leshenkonazar2000gmail.com
