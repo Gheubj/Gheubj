@@ -26,7 +26,7 @@ I build applied ML products and full-stack systems - from data preparation and m
 | Project | What I worked on | Result and stack |
 | --- | --- | --- |
 | **Nodly** | Browser-based ML studio and LMS for learning machine learning | React, TypeScript, TensorFlow.js, Express, PostgreSQL, Prisma, Docker |
-| **Gamma Knife Progression Prediction** | Team research project using clinical data from 872 patients and 29 features | ROC-AUC 0.767, Recall 0.879, F2 0.848; Python, scikit-learn, MLP |
+| **Gamma Knife Progression Prediction** | Team research project using clinical data from 5491 patients and 29 features | ROC-AUC 0.767, Recall 0.879, F2 0.848; Python, scikit-learn, MLP |
 | **[Interactive City Audio Guide](https://progorodn.site)** | Web application with QR launch, maps, GPS checkpoints, progress tracking and an admin panel | Used by 1,500+ people; Next.js, TypeScript, Yandex Maps, Vercel |
 
 ## Technologies
