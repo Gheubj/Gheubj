@@ -40,11 +40,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
 
-## Резюме
-
-- ML Engineer: [English](resume/ML_Resume_EN.pdf) | [Русский](resume/ML_Resume_RU.pdf)
-- Full-stack Developer: [English](resume/Developer_Resume_EN.pdf) | [Русский](resume/Developer_Resume_RU.pdf)
-
 ## Контакты
 
 - Telegram: [@Gheubj](https://t.me/Gheubj)
