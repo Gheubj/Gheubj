@@ -18,8 +18,7 @@ I build applied ML products and full-stack systems - from data preparation and m
 - Student at Central University, Business Informatics
 - Interested in practical ML, product engineering and intelligent interfaces
 - Experience with clinical ML, EdTech platforms and client web products
-- Developed ML course materials for MIPT's Code of the Future program
-- Coached national AI olympiad teams, including Spain's IOAI 2026 team
+
 
 ## Selected projects
 
